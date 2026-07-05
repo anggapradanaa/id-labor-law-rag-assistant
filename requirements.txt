@@ -1,0 +1,19 @@
+# Fine-tuning & GRPO
+unsloth
+trl
+peft
+accelerate
+bitsandbytes
+datasets
+matplotlib
+
+# RAG Pipeline
+langchain
+langchain-community
+langchain-text-splitters
+sentence-transformers
+rank_bm25
+faiss-cpu
+pypdf
+duckduckgo-search
+gradio

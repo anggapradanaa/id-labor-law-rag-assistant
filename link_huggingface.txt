@@ -1,0 +1,5 @@
+Model Fine-tuning (Kriteria 1 — Basic/Skilled):
+https://huggingface.co/anggapradana/qwen2-5-1-5b-alpaca-id
+
+Model GRPO (Kriteria 1 — Advanced):
+https://huggingface.co/anggapradana/qwen2-5-1-5b-grpo-id
