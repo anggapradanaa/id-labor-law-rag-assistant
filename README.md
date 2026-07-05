@@ -48,7 +48,14 @@ Pertanyaan user
    → tempel sitasi sumber
 ```
 
-Dokumen basis: UU No. 6/2023 (Cipta Kerja), PP No. 35/2021 (PKWT/Alih Daya/Lembur), PP No. 5/2021 (Perizinan Berusaha), PP No. 51/2023 (Pengupahan), total sekitar 1.900 halaman, di-index pakai embedding multibahasa dan disimpan di FAISS lokal.
+Dokumen basis, total sekitar 1.900 halaman, di-index pakai embedding multibahasa dan disimpan di FAISS lokal:
+
+| Dokumen | Isi |
+|---|---|
+| UU Nomor 6 Tahun 2023 | Cipta Kerja |
+| PP Nomor 35 Tahun 2021 | PKWT, Alih Daya, Waktu Kerja, dan Upah Lembur |
+| PP Nomor 5 Tahun 2021 | Penyelenggaraan Perizinan Berusaha Berbasis Risiko |
+| PP Nomor 51 Tahun 2023 | Pengupahan |
 
 ## Struktur Proyek
 
